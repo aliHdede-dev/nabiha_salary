@@ -19,3 +19,14 @@ double_salary = salary * 2
 
 additional_savings = 50
 savings_left = additional_savings / savings_amount
+
+print(f"your salary is: {salary}")
+print(f"your savings amount is: {savings_amount}")
+print(f"your rent amount is: {rent_amount}")
+print(f"your electricity amount is: {electricity_amount}")
+print(f"your total amount is: {total_amount}")
+print(f"your salary remainder is: {salary_remainder}")
+print(f"your yearly rent is: {yearly_rent}")
+print(f"your yearly electricity is: {yearly_electricity}")
+print(f"your double salary is: {double_salary}")
+print(f"your savings left is: {savings_left}")
