@@ -16,3 +16,6 @@ yearly_rent = rent_amount * 12
 yearly_electricity = electricity_amount * 12
 
 double_salary = salary * 2
+
+additional_savings = 50
+savings_left = additional_savings / savings_amount
