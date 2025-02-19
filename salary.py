@@ -10,3 +10,4 @@ electricity_amount = salary * electricity_percentage / 100
 
 total_amount = savings_amount + rent_amount + electricity_amount
 
+salary_remainder = salary - total_amount
