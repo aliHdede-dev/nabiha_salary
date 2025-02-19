@@ -11,3 +11,6 @@ electricity_amount = salary * electricity_percentage / 100
 total_amount = savings_amount + rent_amount + electricity_amount
 
 salary_remainder = salary - total_amount
+
+yearly_rent = rent_amount * 12
+yearly_electricity = electricity_amount * 12
