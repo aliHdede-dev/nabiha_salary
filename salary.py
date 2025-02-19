@@ -8,4 +8,5 @@ savings_amount = salary * savings_percentage / 100
 rent_amount = salary * rent_percentage / 100
 electricity_amount = salary * electricity_percentage / 100
 
+total_amount = savings_amount + rent_amount + electricity_amount
 
