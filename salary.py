@@ -30,3 +30,5 @@ print(f"your yearly rent is: {yearly_rent}")
 print(f"your yearly electricity is: {yearly_electricity}")
 print(f"your double salary is: {double_salary}")
 print(f"your savings left is: {savings_left}")
+
+# i did not know how to show results for several months so i just showed the results for one month
